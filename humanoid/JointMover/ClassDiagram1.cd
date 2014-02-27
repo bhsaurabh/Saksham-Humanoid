@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProMRDS.Simulation.JointMover.JointMoverService" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAEACACQGQKAAABAIEACEAgwEAQAIAACQAQUAgIAAA=</HashCode>
+      <FileName>JointMover.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProMRDS.Simulation.JointMover.Contract" Collapsed="true">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>JointMoverTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProMRDS.Simulation.JointMover.JointMoverState" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABACAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAACAAAAA=</HashCode>
+      <FileName>JointMoverTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProMRDS.Simulation.JointMover.DOFDesc" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAACAAAAiAAAAAAIAAAQACAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>JointMoverTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProMRDS.Simulation.JointMover.JointDesc" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAIAAAAAAAgAAAAAQAAAAAAgABAEAAAAAAYAE=</HashCode>
+      <FileName>JointMoverTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProMRDS.Simulation.JointMover.JointMoverOperations" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JointMoverTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProMRDS.Simulation.JointMover.increment" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JointMoverTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProMRDS.Simulation.JointMover.IncrementRequestType" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JointMoverTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProMRDS.Simulation.JointMover.Get" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JointMoverTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProMRDS.Simulation.JointMover.FromWinformEvents" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JointMoverTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProMRDS.Simulation.JointMover.MoveJoint" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>JointMoverTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProMRDS.Simulation.JointMover.FromWinformMsg" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAgAAAABAAAAAAAAAAAAIAAABCAAAA=</HashCode>
+      <FileName>JointMoverTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProMRDS.Simulation.JointMover.Subscribe" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JointMoverTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ProMRDS.Simulation.JointMover.DOFType" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAYIE=</HashCode>
+      <FileName>JointMoverTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

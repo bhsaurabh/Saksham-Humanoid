@@ -1,0 +1,17 @@
+C:\Users\def\Microsoft Robotics Dev Studio 2008 R3\bin\User.JointMover.dll
+C:\Users\def\Microsoft Robotics Dev Studio 2008 R3\bin\User.JointMover.pdb
+C:\Users\def\Microsoft Robotics Dev Studio 2008 R3\samples\Simulation\JointMover\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\def\Microsoft Robotics Dev Studio 2008 R3\samples\Simulation\JointMover\obj\Debug\ProMRDS.Simulation.JointMover.SimulatedBipedMoverUI.resources
+C:\Users\def\Microsoft Robotics Dev Studio 2008 R3\samples\Simulation\JointMover\obj\Debug\JointMover.csproj.GenerateResource.Cache
+C:\Users\def\Microsoft Robotics Dev Studio 2008 R3\samples\Simulation\JointMover\obj\Debug\User.JointMover.dll
+C:\Users\def\Microsoft Robotics Dev Studio 2008 R3\samples\Simulation\JointMover\obj\Debug\User.JointMover.pdb
+C:\Users\DEF\Microsoft Robotics Dev Studio 2008 R3\JointMover\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DEF\Microsoft Robotics Dev Studio 2008 R3\JointMover\obj\Debug\ProMRDS.Simulation.JointMover.SimulatedBipedMoverUI.resources
+C:\Users\DEF\Microsoft Robotics Dev Studio 2008 R3\JointMover\obj\Debug\JointMover.csproj.GenerateResource.Cache
+C:\Users\DEF\Microsoft Robotics Dev Studio 2008 R3\JointMover\obj\Debug\User.JointMover.dll
+C:\Users\DEF\Microsoft Robotics Dev Studio 2008 R3\JointMover\obj\Debug\User.JointMover.pdb
+F:\bacckup 12th feb 2012\Microsoft Robotics Dev Studio 2008 R3\JointMover\obj\Debug\ResolveAssemblyReference.cache
+F:\bacckup 12th feb 2012\Microsoft Robotics Dev Studio 2008 R3\JointMover\obj\Debug\ProMRDS.Simulation.JointMover.SimulatedBipedMoverUI.resources
+F:\bacckup 12th feb 2012\Microsoft Robotics Dev Studio 2008 R3\JointMover\obj\Debug\JointMover.csproj.GenerateResource.Cache
+F:\bacckup 12th feb 2012\Microsoft Robotics Dev Studio 2008 R3\JointMover\obj\Debug\User.JointMover.dll
+F:\bacckup 12th feb 2012\Microsoft Robotics Dev Studio 2008 R3\JointMover\obj\Debug\User.JointMover.pdb

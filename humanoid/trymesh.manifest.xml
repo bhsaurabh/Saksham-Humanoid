@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--This file was created with the Microsoft Visual Programming Language.-->
+<Manifest xmlns:user="http://www.microsoft.com/contracts/2008/08/jointmover.user.html" xmlns:this="urn:uuid:ea6607c1-be21-4045-a64a-ad4c6126e6ae" xmlns:trymesh="http://schemas.tempuri.org/2010/09/trymesh.html" xmlns:dssp="http://schemas.microsoft.com/xw/2004/10/dssp.html" xmlns="http://schemas.microsoft.com/xw/2004/10/manifest.html">
+  <CreateServiceList>
+    <ServiceRecordType>
+      <dssp:Contract>http://schemas.tempuri.org/2010/09/trymesh.html</dssp:Contract>
+      <dssp:PartnerList />
+      <Name>this:trymesh</Name>
+    </ServiceRecordType>
+    <ServiceRecordType>
+      <dssp:Contract>http://www.microsoft.com/contracts/2008/08/jointmover.user.html</dssp:Contract>
+      <dssp:PartnerList />
+      <Name>this:UserJointMover</Name>
+    </ServiceRecordType>
+  </CreateServiceList>
+</Manifest>

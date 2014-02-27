@@ -1,0 +1,86 @@
+R:\Kinect\Skeleton\KinectSDKDemo\KinectSDKDemo\bin\Debug\KinectSDKDemo.exe
+R:\Kinect\Skeleton\KinectSDKDemo\KinectSDKDemo\bin\Debug\KinectSDKDemo.pdb
+R:\Kinect\Skeleton\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Kinect\Skeleton\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\MainWindow.baml
+R:\Kinect\Skeleton\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\MainWindow.g.cs
+R:\Kinect\Skeleton\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\App.g.cs
+R:\Kinect\Skeleton\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo_MarkupCompile.cache
+R:\Kinect\Skeleton\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.g.resources
+R:\Kinect\Skeleton\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.Properties.Resources.resources
+R:\Kinect\Skeleton\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+R:\Kinect\Skeleton\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+R:\Kinect\Skeleton\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.exe
+R:\Kinect\Skeleton\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.pdb
+R:\Kinect\Skeleton - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.exe
+R:\Kinect\Skeleton - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.pdb
+R:\Kinect\Skeleton - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Kinect\Skeleton - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\MainWindow.baml
+R:\Kinect\Skeleton - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\MainWindow.g.cs
+R:\Kinect\Skeleton - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\App.g.cs
+R:\Kinect\Skeleton - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo_MarkupCompile.cache
+R:\Kinect\Skeleton - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.g.resources
+R:\Kinect\Skeleton - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.Properties.Resources.resources
+R:\Kinect\Skeleton - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+R:\Kinect\Skeleton - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+R:\Kinect\Skeleton - Copy\KinectSDKDemo\KinectSDKDemo\bin\Debug\KinectSDKDemo.exe
+R:\Kinect\Skeleton - Copy\KinectSDKDemo\KinectSDKDemo\bin\Debug\KinectSDKDemo.pdb
+R:\Kinect\Skeleton - Copy\KinectSDKDemo\KinectSDKDemo\bin\Debug\Kinect.Toolbox.dll
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.exe
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.pdb
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\MainWindow.baml
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\MainWindow.g.cs
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\App.g.cs
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo_MarkupCompile.cache
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.g.resources
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.Properties.Resources.resources
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\bin\Debug\KinectSDKDemo.exe
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\bin\Debug\KinectSDKDemo.pdb
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\bin\Debug\Kinect.Toolbox.dll
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\bin\Debug\Text to Speech.exe
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\bin\Debug\Text to Speech.pdb
+G:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\bin\Debug\KinectSDKDemo.exe
+G:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\bin\Debug\KinectSDKDemo.pdb
+G:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\bin\Debug\Text to Speech.exe
+G:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\bin\Debug\Text to Speech.pdb
+G:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\MainWindow.baml
+G:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\App.g.cs
+G:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo_MarkupCompile.cache
+G:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.g.resources
+G:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.Properties.Resources.resources
+G:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.exe
+G:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.pdb
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.exe
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.pdb
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\bin\Debug\KinectSDKDemo.exe
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\bin\Debug\KinectSDKDemo.pdb
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\App.g.cs
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo_MarkupCompile.cache
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.g.resources
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.Properties.Resources.resources
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\Kinect.csproj.ResolveComReference.cache
+C:\Users\Kartik\Desktop\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.exe
+C:\Users\Kartik\Desktop\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.pdb
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.exe
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.pdb
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\App.g.cs
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo_MarkupCompile.cache
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.g.resources
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.Properties.Resources.resources
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\GenerateResource.write.1.tlog

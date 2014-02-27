@@ -1,0 +1,15 @@
+P:\C#\KinectSDKDemo\KinectSDKDemo\bin\Debug\KinectSDKDemo.exe
+P:\C#\KinectSDKDemo\KinectSDKDemo\bin\Debug\KinectSDKDemo.pdb
+P:\C#\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\C#\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\MainWindow.baml
+P:\C#\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\MainWindow.g.cs
+P:\C#\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\App.g.cs
+P:\C#\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo_MarkupCompile.cache
+P:\C#\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.g.resources
+P:\C#\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.Properties.Resources.resources
+P:\C#\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+P:\C#\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+P:\C#\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.exe
+P:\C#\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.pdb
+R:\Kinect\Skeleton\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.exe
+R:\Kinect\Skeleton\KinectSDKDemo\KinectSDKDemo\obj\x86\Debug\KinectSDKDemo.pdb

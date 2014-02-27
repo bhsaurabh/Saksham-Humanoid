@@ -1,0 +1,85 @@
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\bin\Release\KinectSDKDemo.exe
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\bin\Release\KinectSDKDemo.pdb
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\bin\Release\Kinect.Toolbox.dll
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\ResolveAssemblyReference.cache
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\MainWindow.baml
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\MainWindow.g.cs
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\App.g.cs
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo_MarkupCompile.cache
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.g.resources
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.Properties.Resources.resources
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\GenerateResource.read.1.tlog
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\GenerateResource.write.1.tlog
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.exe
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.pdb
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\bin\Release\Text to Speech.exe
+R:\Kinect\Skeleton - Copy - Copy\KinectSDKDemo\KinectSDKDemo\bin\Release\Text to Speech.pdb
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.exe
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.pdb
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\bin\Release\KinectSDKDemo.exe
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\bin\Release\KinectSDKDemo.pdb
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\bin\Release\Text to Speech.pdb
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\MainWindow.baml
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\MainWindow.g.cs
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\App.g.cs
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo_MarkupCompile.cache
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.g.resources
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.Properties.Resources.resources
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\Interop.SpeechLib.dll
+C:\Users\Supertramp\Documents\Visual Studio 2010\Projects\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\Kinect.csproj.ResolveComReference.cache
+C:\Users\Kartik\Desktop\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.exe
+C:\Users\Kartik\Desktop\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.pdb
+C:\Users\Kartik\Desktop\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Kartik\Desktop\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\MainWindow.baml
+C:\Users\Kartik\Desktop\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\MainWindow.g.cs
+C:\Users\Kartik\Desktop\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\App.g.cs
+C:\Users\Kartik\Desktop\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo_MarkupCompile.cache
+C:\Users\Kartik\Desktop\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.g.resources
+C:\Users\Kartik\Desktop\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.Properties.Resources.resources
+C:\Users\Kartik\Desktop\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Kartik\Desktop\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Kartik\Desktop\KinectSDKDemo\KinectSDKDemo\bin\Release\KinectSDKDemo.exe
+C:\Users\Kartik\Desktop\KinectSDKDemo\KinectSDKDemo\bin\Release\KinectSDKDemo.pdb
+C:\Users\Kartik\Desktop\KinectSDKDemo\KinectSDKDemo\bin\Release\Text to Speech.pdb
+G:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.exe
+G:\KinectSDKDemo\KinectSDKDemo\bin\Release\KinectSDKDemo.exe
+G:\KinectSDKDemo\KinectSDKDemo\bin\Release\KinectSDKDemo.pdb
+G:\KinectSDKDemo\KinectSDKDemo\bin\Release\Text to Speech.pdb
+G:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\ResolveAssemblyReference.cache
+G:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\MainWindow.baml
+G:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\MainWindow.g.cs
+G:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\App.g.cs
+G:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo_MarkupCompile.cache
+G:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.g.resources
+G:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.Properties.Resources.resources
+G:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\GenerateResource.read.1.tlog
+G:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\GenerateResource.write.1.tlog
+G:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.pdb
+C:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.exe
+C:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.pdb
+C:\KinectSDKDemo\KinectSDKDemo\bin\Release\KinectSDKDemo.exe
+C:\KinectSDKDemo\KinectSDKDemo\bin\Release\KinectSDKDemo.pdb
+C:\KinectSDKDemo\KinectSDKDemo\bin\Release\Text to Speech.pdb
+C:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\MainWindow.baml
+C:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\MainWindow.g.cs
+C:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\App.g.cs
+C:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo_MarkupCompile.cache
+C:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.g.resources
+C:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.Properties.Resources.resources
+C:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\GenerateResource.read.1.tlog
+C:\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.exe
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.pdb
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\MainWindow.baml
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\MainWindow.g.cs
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\App.g.cs
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo_MarkupCompile.cache
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.g.resources
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\KinectSDKDemo.Properties.Resources.resources
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\def\KinectSDKDemo\KinectSDKDemo\obj\x86\Release\GenerateResource.write.1.tlog

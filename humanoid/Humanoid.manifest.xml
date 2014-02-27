@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!--This file was created with the Microsoft Visual Programming Language.-->
+<Manifest xmlns:jointmover="http://www.microsoft.com/contracts/2008/08/jointmover.html" xmlns:simulation="http://schemas.microsoft.com/robotics/2006/04/simulation.html" xmlns:this="urn:uuid:4004c266-9b3f-486d-bcd0-55f1c40a8aab" xmlns:dssp="http://schemas.microsoft.com/xw/2004/10/dssp.html" xmlns:humanoid="http://schemas.tempuri.org/2010/08/humanoid.html" xmlns="http://schemas.microsoft.com/xw/2004/10/manifest.html">
+  <CreateServiceList>
+    <ServiceRecordType>
+      <dssp:Contract>http://schemas.tempuri.org/2010/08/humanoid.html</dssp:Contract>
+      <dssp:PartnerList>
+        <dssp:Partner>
+          <dssp:Service>http://localhost/humanoid</dssp:Service>
+          <dssp:PartnerList />
+          <dssp:Name>simulation:Entity</dssp:Name>
+        </dssp:Partner>
+      </dssp:PartnerList>
+      <Name>this:humanoid</Name>
+    </ServiceRecordType>
+    <ServiceRecordType>
+      <dssp:Contract>http://www.microsoft.com/contracts/2008/08/jointmover.user.html</dssp:Contract>
+      <dssp:PartnerList>
+        <dssp:Partner>
+          <dssp:Service>http://localhost/humanoid</dssp:Service>
+          <dssp:PartnerList />
+          <dssp:Name>simulation:Entity</dssp:Name>
+        </dssp:Partner>
+      </dssp:PartnerList>
+      <Name>this:JointMover</Name>
+    </ServiceRecordType>
+
+ 
+  </CreateServiceList>
+</Manifest>

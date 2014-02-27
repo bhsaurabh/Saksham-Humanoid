@@ -1,0 +1,5 @@
+C:\Users\def\Microsoft Robotics Dev Studio 2008 R3\bin\Humanoid.Y2010.M08.dll
+C:\Users\def\Microsoft Robotics Dev Studio 2008 R3\bin\Humanoid.Y2010.M08.pdb
+C:\Users\def\Microsoft Robotics Dev Studio 2008 R3\self\Humanoid\Humanoid\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\def\Microsoft Robotics Dev Studio 2008 R3\self\Humanoid\Humanoid\obj\Debug\Humanoid.Y2010.M08.dll
+C:\Users\def\Microsoft Robotics Dev Studio 2008 R3\self\Humanoid\Humanoid\obj\Debug\Humanoid.Y2010.M08.pdb
