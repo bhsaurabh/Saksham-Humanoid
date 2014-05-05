@@ -76,7 +76,7 @@ namespace Kinect
             return myLine;
         }
 
-        /*
+        
         public void drawline3D(double x1, double y1, double z1, double x2, double y2, double z2)
         {
              triangleMesh = new MeshGeometry3D();
@@ -101,7 +101,7 @@ namespace Kinect
             model.Content = triangleModel;
             this.mainViewport.Children.Add(model);
         }
-        */
+        
 
        
 
