@@ -6,6 +6,7 @@
 //  $File: JointMover.cs $ $Revision: 1 $
 //-----------------------------------------------------------------------
 
+// Editted for Saksham - Humanoid robot project
 using Microsoft.Ccr.Core;
 using Microsoft.Dss.Core;
 using Microsoft.Dss.Core.Attributes;
@@ -261,16 +262,9 @@ namespace ProMRDS.Simulation.JointMover
                         }
                     }
                   
-
-
-
-
-
                 }
                 public void FrontStand()
                 {
-
-
                     byte id;
                     int angle;
                     id = (byte)Dynamixel.Lhand2;
@@ -448,11 +442,6 @@ namespace ProMRDS.Simulation.JointMover
                     angle = -angle;
                     SerialSend(id, angle, 150);
                     
-                    
-
-
-
-
                 }
          public void Reset()
         {
