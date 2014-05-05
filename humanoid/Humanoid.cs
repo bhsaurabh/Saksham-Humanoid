@@ -246,30 +246,7 @@ namespace Humanoid
             new HumanoidShapeDescriptor(Shapes.Box,	"legu7r",	0    ,	.95,   .55,		.041f,	    .032f,    .052f,		0,	-90,	0,	0,	.1f,	"part2.obj"),
             new HumanoidShapeDescriptor(Shapes.Box,	"legu7l",	0    ,	1.05,   .55,		.041f,	    .032f,    .052f,		0,	-90,	0,	0,	.1f,	"part2.obj"),
             
-            //new HumanoidShapeDescriptor(Shapes.Box, "Rhand1",	    -.116795f,	.38175f,    .00394f,		.06725f,	.034f,      .047f,	    	0,	0,	0,	0,	.070f,	"Right1.obj"),
-           // new HumanoidShapeDescriptor(Shapes.Box,	"Rhand2",	    -.13408f,	.342755f,   .00324f,		.047f,	    .11061f,    .05f,	    	0,	0,	0,	0,	.070f,	"Right2.obj"),
-           // new HumanoidShapeDescriptor(Shapes.Box,	"Rhand3",	    -.13178f,   .260275f,   -.001105f,		.064f,	    .13285f,    .04765f,		0,	0,	0,	0,	.070f,	"Right3.obj"),
-           // new HumanoidShapeDescriptor(Shapes.Box,	"Rhand4",	    -.149005f,	.236735f,   -.001695f,  	.04719f,	.08787f,    .05035f,		0,	0,	0,	0,	.010f,	"Right4.obj"),
-            
-           // new HumanoidShapeDescriptor(Shapes.Box,	"Lhand1",	    .116795f,	.38175f,    .00394f,		.06725f,	.034f,      .047f,	    	0,	0,	0,	0,	.070f,	"Left1.obj"),
-           // new HumanoidShapeDescriptor(Shapes.Box,	"Lhand2",	    .13408f,    .342755f,   .00324f,		.047f,	    .11061f,    .05f,	    	0,	0,	0,	0,	.070f,	"Left2.obj"),
-           // new HumanoidShapeDescriptor(Shapes.Box,	"Lhand3",	    .13178f,    .260275f,   -.001105f,		.064f,	    .13285f,    .04765f,		0,	0,	0,	0,	.070f,	"Left3.obj"),
-           // new HumanoidShapeDescriptor(Shapes.Box,	"Lhand4",	    .149005f,	.236735f,   -.001695f,		.04719f,	.08787f,    .05035f,		0,	0,	0,	0,	.020f,	"Left4.obj"),
-            
-           // new HumanoidShapeDescriptor(Shapes.Box,	"Rleg1",	    -.05315f,   .23289f,    -.00275f,		.034f,	    .05f,       .088f,	    	0,	0,	0,	0,	.020f,	"Rleg1.obj"),
-           // new HumanoidShapeDescriptor(Shapes.Box,	"Rleg2",	    -.05831f,	.203675f,   -.010395f,		.047f,	    .06725f,    .07713f,	    0,	0,	0,	0,	.140f,	"Rleg2.obj"),
-           // new HumanoidShapeDescriptor(Shapes.Box,	"Rleg3",	    -.05823f,	.159475f,   -.004825f,		.05f,	    .09887f,    .06333f,		0,	0,	0,	0,	.030f,	"Rleg3.obj"),
-           // new HumanoidShapeDescriptor(Shapes.Box,	"Rleg4",	    -.05802f,	.093865f,   -.019345f,		.05f,	    .11037f,    .03422f,		0,	0,	0,	0,	.090f,	"Rleg4.obj"),
-           // new HumanoidShapeDescriptor(Shapes.Box,	"Rleg1",	    -.05885f,	.042005f,    .0043f,		.047f,	    .07137,      .082f,	   	    0,	0,	0,	0,	.140f,	"legb1.obj"),
-           // new HumanoidShapeDescriptor(Shapes.Box,	"Torso",	    0,	1,   0,	        	.077f,	    .032f,    .106f,	    	0,	0,	0,	0,	.050f,	"legu1l.obj"),
-
-           // new HumanoidShapeDescriptor(Shapes.Box,	"Lleg1",	    .05315f,   .23289f,    -.00275f,		.034f,	    .05f,       .088f,	    	0,	0,	0,	0,	.020f,	"Lleg1x.obj"),
-           // new HumanoidShapeDescriptor(Shapes.Box,	"Lleg2",	    .05831f,	.203675f,   -.010395f,		.047f,	    .06725f,    .07713f,	    0,	0,	0,	0,	.140f,	"Lleg2.obj"),
-           // new HumanoidShapeDescriptor(Shapes.Box,	"Lleg3",	    .05823f,	.159475f,   -.004825f,		.05f,	    .09887f,    .06333f,		0,	0,	0,	0,	.030f,	"Lleg3.obj"),
-           // new HumanoidShapeDescriptor(Shapes.Box,	"Lleg4",	    .05802f,	.093865f,   -.019345f,		.05f,	    .11037f,    .03422f,		0,	0,	0,	0,	.090f,	"Lleg4.obj"),
-           // new HumanoidShapeDescriptor(Shapes.Box,	"Lleg5",	    .05885f,	.042005f,    .0043f,		.047f,	    .07137,      .082f,	   	    0,	0,	0,	0,	.140f,	"Lleg5.obj"),
-           // new HumanoidShapeDescriptor(Shapes.Box,	"Lleg6",	    .05702f,	.019415f,   0,	        	.075f,	    .03883f,    .10f,	    	0,	0,	0,	0,	.050f,	"Lleg6.obj"),
-            
+          
         };
 
         
@@ -328,38 +305,6 @@ namespace Humanoid
            new ParentChild("Lhand3",    "Lhand2",		"Lhand3",    "Swing2",   new Vector3(-0.0015f,.02375f,.0005f),	        new Vector3(-0.016f,0.02175f,0),	nX,	Z,		X,	Z), 
            new ParentChild("Lhand4",    "Lhand3",		"Lhand4",    "Swing1",   new Vector3(0.015067f,.0345f,-.002f),	        new Vector3(0.01775f,-0.016f,0),	X,	Z,		X,	Z), 
            new ParentChild("LGrip",    "Lhand4",		"LGrip",    "Twist",   new Vector3(-0.01775f,.01138f,.0161f),	        new Vector3(0.016f,0,0.01875f),	X,	Z,		X,	Z), 
-           
-         
-           
-           
-           
-           
-           // new ParentChild("Lleg1",    "Torso",		"Lleg1",    "Swing1",   new Vector3(0.005f,0.015f,0f),	        new Vector3(0.05815f,-0.099365f,-0.00439f),	Y,	X,		Y,	X),
-           // new ParentChild("Lleg2",    "Lleg1",		"Lleg2",    "Swing2",	new Vector3(-0.0055f,0.010375f,-0.038565f),	new Vector3(-0.00034f,-0.01884f,-0.04621f),	Y,	X,		Y,	X),
-           // new ParentChild("Lleg3",    "Lleg2",		"Lleg3",    "Twist",	new Vector3(0.02358f,0.032575f,0.014995f),new Vector3(0.0235f,-0.011625f,0.020565f),Y,	X,      Y,  X),
-           // new ParentChild("Lleg4",    "Lleg3",		"Lleg4",    "Twist",	new Vector3(0.02498f,0.033185f,0.00011f),	new Vector3(0.02477f,-0.032425f,-0.014525f),Y,	X,		Y,	X),
-           // new ParentChild("Lleg5",    "Lleg4",		"Lleg5",    "Twist",	new Vector3(0.0235f,0.013315f,-0.025f),	    new Vector3(0.02433f,-0.038545f,-0.00124f),	Y,	X,		Y,	X),
-           // new ParentChild("Lleg6",    "Lleg5",		"Lleg6",    "Swing2",	new Vector3(0.00033f,0.008905f,0.0453f),	new Vector3(-0.0015f,-0.013685f,0.041f),	Y,	X,		Y,	X),
-  
-           // new ParentChild("Rhand1",   "Torso",		"Rhand1",   "Twist",	new Vector3(0.033625f,0,0.0065f),         new Vector3(-0.08317f,0.034495f,0.00708f), 	        	Y,	X,		Y,	X),
-           // new ParentChild("Rhand2",   "Rhand1",		"Rhand2",   "Swing2",	new Vector3(0.00566f,0.038995f,0.0228f),	new Vector3(-0.011625f,0,0.0235f),	        Y,	X,		Y,	X),
-           // new ParentChild("Rhand3",   "Rhand2",		"Rhand3",   "Twist", 	new Vector3(-0.0258f,0.049175f,0.005345f),	new Vector3(-0.0235f,-0.033305f,0.001f),	Y,	X,		Y,	X),
-           // new ParentChild("Rhand4",   "Rhand3",		"Rhand4",   "Swing2",	new Vector3(0.006595f,0.025115f,0.023235f),new Vector3(-0.01f,0.001575f,0.023825f),Y,	X,		Y,	X),
-     
-           // new ParentChild("Rleg1",    "Torso",		"Rleg1",    "Swing1",	new Vector3(-0.005f,0.015f,0f),	        new Vector3(-0.05815f,-0.099365f,-0.00439f),	Y,	X,		Y,	X),
-           // new ParentChild("Rleg2",    "Rleg1",		"Rleg2",    "Swing2",	new Vector3(0.0055f,0.010375f,-0.038565f),	new Vector3(0.00034f,-0.01884f,-0.04621f),	Y,	X,		Y,	X),
-           // new ParentChild("Rleg3",    "Rleg2",		"Rleg3",    "Twist",	new Vector3(-0.02358f,0.032575f,0.014995f),new Vector3(-0.0235f,-0.011625f,0.020565f),Y,	X,      Y,  X),
-            //new ParentChild("Rleg4",    "Rleg3",		"Rleg4",    "Twist",	new Vector3(-0.02498f,0.033185f,0.00011f),	new Vector3(-0.02477f,-0.032425f,-0.014525f),Y,	X,		Y,	X),
-            //new ParentChild("Rleg5",    "Rleg4",		"Rleg5",    "Twist",	new Vector3(-0.0235f,0.013315f,-0.025f),	    new Vector3(-0.02433f,-0.038545f,-0.00124f),	Y,	X,		Y,	X),
-           // new ParentChild("Rleg6",    "Rleg5",		"Rleg6",    "Swing2",	new Vector3(-0.00033f,0.008905f,0.0453f),	new Vector3(0.0015f,-0.013685f,0.041f),	Y,	X,		Y,	X),
-
-           // new ParentChild("Lhand1",   "Torso",		"Lhand1",   "Twist",	 new Vector3(-.033625f,0,.0065f),              new Vector3(0.08317f,0.034495f,0.00708f), 	        	Y,	X,		Y,	X),
-            //new ParentChild("Lhand2",   "Lhand1",		"Lhand2",   "Swing2",	new Vector3(-0.00566f,0.038995f,0.0228f),	new Vector3(0.011625f,0,0.0235f),	        Y,	X,		Y,	X),
-           // new ParentChild("Lhand3",   "Lhand2",		"Lhand3",   "Twist",	new Vector3(0.0258f,0.049175f,0.005345f),	new Vector3(0.0235f,-0.033305f,0.001f),	Y,	X,		Y,	X),
-           // new ParentChild("Lhand4",   "Lhand3",		"Lhand4",   "Swing2",	new Vector3(-0.006595f,0.025115f,0.023235f),new Vector3(0.01f,0.001575f,0.023825f),Y,	X,		Y,	X),
- 
-            
-        
            };
 
         string _parentName = "Torso";
@@ -386,23 +331,6 @@ namespace Humanoid
 
                     
                 SingleShapeEntity shapeEntity = null;
-               /*
-                SimplifiedConvexMeshEnvironmentEntity shapeEntity = null;
-                if (desc.Name == _parentName)
-                {
-                    shapeEntity = new HumanoidEntity(newShape, new Vector3(
-                        (float)desc.xPosition + initialPosition.X,
-                        (float)desc.yPosition + initialPosition.Y,
-                        (float)desc.zPosition + initialPosition.Z),desc.mesh);
-                }
-                else
-                {
-                    shapeEntity = new SegmentEntity(newShape, new Vector3(
-                        (float)desc.xPosition + initialPosition.X,
-                        (float)desc.yPosition + initialPosition.Y,
-                        (float)desc.zPosition + initialPosition.Z),desc.mesh);
-                }
-                */ 
                 
                 if (desc.Name == _parentName)
                 {
