@@ -22,10 +22,7 @@ namespace Kinect
  
     public partial class MainWindow : Window
     {
-       // public System.Speech.Synthesis.SpeechSynthesizer synthesizer;
-       // Kinect.Toolbox.VoiceCommander voiceCommander;
-       // Camera cam;
-       // Runtime _nui = new Runtime();       
+       
         KinectSensor sensor;                                    //= KinectSensor.KinectSensors[0];   
         public WriteableBitmap OutputImage { get; set; }        // better than initalising & creating a new Bitmap 30 times a sec (as 30fps = frame rate)
 
@@ -35,11 +32,6 @@ namespace Kinect
         public MainWindow()
         {
             InitializeComponent();
-            /*
-            voiceCommander = new VoiceCommander("record", "stop", "how are you?", "move back","move forward", "what is your name?","who are you?","hello");
-            voiceCommander.OrderDetected += voiceCommander_OrderDetected;
-            voiceCommander.Start();
-            */
             try
             {
                 SerialPort1.PortName = "COM24";          // edit PORT Number accordingly as per connection
@@ -59,12 +51,9 @@ namespace Kinect
             sensor = KinectSensor.KinectSensors[0];     // Get the Kinect attached to the system (can have a max of 4 kinects...we'll use the 1st one
            try
            {
-               /*_nui.Initialize(RuntimeOptions.UseDepthAndPlayerIndex | RuntimeOptions.UseSkeletalTracking | RuntimeOptions.UseColor);
-               _nui.VideoStream.Open(ImageStreamType.Video, 2, ImageResolution.Resolution640x480, ImageType.Color); */
                
                sensor.SkeletonFrameReady += new EventHandler<SkeletonFrameReadyEventArgs>(sensor_SkeletonFrameReady);   // listen to SkeletonTracking events
                sensor.ColorFrameReady += new EventHandler<ColorImageFrameReadyEventArgs>(sensor_ColorFrameReady);   // For display on WritableBitmap
-               // Check & verify the above 2 lines of code
                // Now enable all he required streams
                sensor.ColorStream.Enable(ColorImageFormat.RgbResolution640x480Fps30);
                sensor.DepthStream.Enable();
@@ -130,19 +119,6 @@ namespace Kinect
 
             }
             args_e = e;
-            /*foreach (SkeletonData user in e.SkeletonFrame.Skeletons)
-            {
-              
-                if (user.TrackingState == SkeletonTrackingState.Tracked)
-                {
-                    foreach (Joint joint in user.Joints)
-                    {
-                        
-                        DrawPoint(joint, Colors.Red);
-                        WriteNames(joint);
-                    }
-                }
-            }*/
          }
 
         private void WriteNames(Joint joint)
@@ -241,10 +217,6 @@ namespace Kinect
         }
 
         #endregion
-
-     
-
-
 
     }
 }
